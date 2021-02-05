@@ -1,6 +1,6 @@
 {
   "name": "pce-pages",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "repository": "https://github.com/Promise-dt/pce-pages.git",
   "license": "MIT",
@@ -17,7 +17,10 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "files": ["lib", "bin"],
+  "files": [
+    "lib",
+    "bin"
+  ],
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
